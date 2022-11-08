@@ -10,8 +10,6 @@ int fcfsAlgo(int , int , vector<int>& );
 int sstfAlgo(int , int , vector<int>& );
 int scanAlgo(int , int , vector<int>& );
 int cscanAlgo(int , int , vector<int>& );
-int findFirstSlot(int&, vector<int>, vector<int>&, vector<int>&);
-int traceSlot(int&, vector<int>&, vector<int>&);
 
 /* Sector Size */
 int sectorMax = 300;
